@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "trident"
+version = "0.1.0"
+description = "Trident is a program for transforming singlet absorption lines to triplets and visualizing them."
+authors = ["Artem Shepelin <deverte@ya.ru>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+matplotlib = "^3.5.1"
+pandas = "^1.4.1"
+PyQt6 = "^6.2.3"
+
+[tool.poetry.dev-dependencies]
+libsass = "^0.21.0"
+pyinstaller = "^4.9"
+pytest = "^5.2"
+
+[tool.poetry.scripts]
+trident = "trident.__main__:main"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,222 @@
+QSpinBox#dpiSpinBox::up-button, QSpinBox#dpiSpinBox::down-button, QSpinBox#dpiSpinBox, QMenu#menuHelp, QMenu#menuFile, QLineEdit#yAxisNameLineEdit, QLineEdit#xAxisNameLineEdit, QLineEdit#titleLineEdit, QLineEdit#outputFileLineEdit, FileLineEdit#inputFileFileLineEdit, QDoubleSpinBox#yMinDoubleSpinBox::up-button, QDoubleSpinBox#yMinDoubleSpinBox::down-button, QDoubleSpinBox#yMinDoubleSpinBox, QDoubleSpinBox#yMaxDoubleSpinBox::up-button, QDoubleSpinBox#yMaxDoubleSpinBox::down-button, QDoubleSpinBox#yMaxDoubleSpinBox, QDoubleSpinBox#xMinDoubleSpinBox::up-button, QDoubleSpinBox#xMinDoubleSpinBox::down-button, QDoubleSpinBox#xMinDoubleSpinBox, QDoubleSpinBox#xMaxDoubleSpinBox::up-button, QDoubleSpinBox#xMaxDoubleSpinBox::down-button, QDoubleSpinBox#xMaxDoubleSpinBox, QDoubleSpinBox#figureYDoubleSpinBox::up-button, QDoubleSpinBox#figureYDoubleSpinBox::down-button, QDoubleSpinBox#figureYDoubleSpinBox, QDoubleSpinBox#figureXDoubleSpinBox::up-button, QDoubleSpinBox#figureXDoubleSpinBox::down-button, QDoubleSpinBox#figureXDoubleSpinBox, QComboBox#linesPresetComboBox::drop-down, QComboBox#linesPresetComboBox QAbstractItemView, QComboBox#linesPresetComboBox, QPushButton#savePushButton, QPushButton#saveAsPushButton, QPushButton#openPushButton, QPushButton#openAsPushButton, ColorButton {
+  border: 1px solid #172051;
+  border-radius: 4px;
+  background-color: #0f1016;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  padding-right: 3px; }
+
+QSpinBox#dpiSpinBox::up-button:hover, QSpinBox#dpiSpinBox::down-button:hover, QSpinBox#dpiSpinBox:focus, QSpinBox#dpiSpinBox:hover, QLineEdit#yAxisNameLineEdit:hover, QLineEdit#xAxisNameLineEdit:hover, QLineEdit#titleLineEdit:hover, QLineEdit#outputFileLineEdit:hover, FileLineEdit#inputFileFileLineEdit:hover, QDoubleSpinBox#yMinDoubleSpinBox::up-button:hover, QDoubleSpinBox#yMinDoubleSpinBox::down-button:hover, QDoubleSpinBox#yMinDoubleSpinBox:focus, QDoubleSpinBox#yMinDoubleSpinBox:hover, QDoubleSpinBox#yMaxDoubleSpinBox::up-button:hover, QDoubleSpinBox#yMaxDoubleSpinBox::down-button:hover, QDoubleSpinBox#yMaxDoubleSpinBox:focus, QDoubleSpinBox#yMaxDoubleSpinBox:hover, QDoubleSpinBox#xMinDoubleSpinBox::up-button:hover, QDoubleSpinBox#xMinDoubleSpinBox::down-button:hover, QDoubleSpinBox#xMinDoubleSpinBox:focus, QDoubleSpinBox#xMinDoubleSpinBox:hover, QDoubleSpinBox#xMaxDoubleSpinBox::up-button:hover, QDoubleSpinBox#xMaxDoubleSpinBox::down-button:hover, QDoubleSpinBox#xMaxDoubleSpinBox:focus, QDoubleSpinBox#xMaxDoubleSpinBox:hover, QDoubleSpinBox#figureYDoubleSpinBox::up-button:hover, QDoubleSpinBox#figureYDoubleSpinBox::down-button:hover, QDoubleSpinBox#figureYDoubleSpinBox:focus, QDoubleSpinBox#figureYDoubleSpinBox:hover, QDoubleSpinBox#figureXDoubleSpinBox::up-button:hover, QDoubleSpinBox#figureXDoubleSpinBox::down-button:hover, QDoubleSpinBox#figureXDoubleSpinBox:focus, QDoubleSpinBox#figureXDoubleSpinBox:hover, QComboBox#linesPresetComboBox::drop-down:hover, QComboBox#linesPresetComboBox:hover, QPushButton#savePushButton:hover, QPushButton#saveAsPushButton:hover, QPushButton#openPushButton:hover, QPushButton#openAsPushButton:hover, ColorButton:hover {
+  border: 1px solid #344291; }
+
+QLineEdit#yAxisNameLineEdit:focus, QLineEdit#xAxisNameLineEdit:focus, QLineEdit#titleLineEdit:focus, QLineEdit#outputFileLineEdit:focus, FileLineEdit#inputFileFileLineEdit:focus, QComboBox#linesPresetComboBox:focus, QPushButton#savePushButton:focus, QPushButton#saveAsPushButton:focus, QPushButton#openPushButton:focus, QPushButton#openAsPushButton:focus, ColorButton:focus {
+  border: 1px solid #4e63e3; }
+
+QTableView#linesConfigurationTableView QHeaderView::section, QTableView#linesConfigurationTableView, QSpinBox#dpiSpinBox, QMenuBar#menubar, QMenu#menuHelp, QMenu#menuFile, QLineEdit#yAxisNameLineEdit, QLineEdit#xAxisNameLineEdit, QLineEdit#titleLineEdit, QLineEdit#outputFileLineEdit, FileLineEdit#inputFileFileLineEdit, QLabel#yMinLabel, QLabel#yMaxLabel, QLabel#yAxisNameLabel, QLabel#xMinLabel, QLabel#xMaxLabel, QLabel#xAxisNameLabel, QLabel#titleLabel, QLabel#titleColorLabel, QLabel#ticksColorLabel, QLabel#linesPresetLabel, QLabel#figureYLabel, QLabel#figureXLabel, QLabel#dpiLabel, QLabel#backgroundColorLabel, QLabel#axesLabelsColorLabel, QLabel#axesColorLabel, QDoubleSpinBox#yMinDoubleSpinBox, QDoubleSpinBox#yMaxDoubleSpinBox, QDoubleSpinBox#xMinDoubleSpinBox, QDoubleSpinBox#xMaxDoubleSpinBox, QDoubleSpinBox#figureYDoubleSpinBox, QDoubleSpinBox#figureXDoubleSpinBox, QComboBox#linesPresetComboBox::drop-down, QComboBox#linesPresetComboBox, QCheckBox#isTransparentBackgroundCheckBox, QCheckBox#isShowIntermediateLinesCheckBox, QPushButton#savePushButton, QPushButton#saveAsPushButton, QPushButton#openPushButton, QPushButton#openAsPushButton, ColorButton {
+  color: #d8e5e9; }
+
+QSpinBox#dpiSpinBox, QMenu#menuHelp, QMenu#menuFile, QLineEdit#yAxisNameLineEdit, QLineEdit#xAxisNameLineEdit, QLineEdit#titleLineEdit, QLineEdit#outputFileLineEdit, FileLineEdit#inputFileFileLineEdit, QDoubleSpinBox#yMinDoubleSpinBox, QDoubleSpinBox#yMaxDoubleSpinBox, QDoubleSpinBox#xMinDoubleSpinBox, QDoubleSpinBox#xMaxDoubleSpinBox, QDoubleSpinBox#figureYDoubleSpinBox, QDoubleSpinBox#figureXDoubleSpinBox, QComboBox#linesPresetComboBox {
+  selection-background-color: #4e63e3; }
+
+ColorButton {
+  min-width: 60px; }
+
+QPushButton#openAsPushButton {
+  min-width: 60px; }
+
+QPushButton#openPushButton {
+  min-width: 60px; }
+
+QPushButton#saveAsPushButton {
+  min-width: 60px; }
+
+QPushButton#savePushButton {
+  min-width: 60px; }
+
+QCheckBox#isShowIntermediateLinesCheckBox::indicator:checked {
+  background-color: #4e63e3;
+  border: 3px solid #172051;
+  border-radius: 4px; }
+
+QCheckBox#isShowIntermediateLinesCheckBox::indicator:checked:hover {
+  border: 3px solid #344291; }
+
+QCheckBox#isShowIntermediateLinesCheckBox::indicator:unchecked {
+  background-color: #172051;
+  border: 3px solid #172051; }
+
+QCheckBox#isShowIntermediateLinesCheckBox::indicator:unchecked:hover {
+  border: 3px solid #344291; }
+
+QCheckBox#isTransparentBackgroundCheckBox::indicator:checked {
+  background-color: #4e63e3;
+  border: 3px solid #172051;
+  border-radius: 4px; }
+
+QCheckBox#isTransparentBackgroundCheckBox::indicator:checked:hover {
+  border: 3px solid #344291; }
+
+QCheckBox#isTransparentBackgroundCheckBox::indicator:unchecked {
+  background-color: #172051;
+  border: 3px solid #172051; }
+
+QCheckBox#isTransparentBackgroundCheckBox::indicator:unchecked:hover {
+  border: 3px solid #344291; }
+
+QComboBox#linesPresetComboBox::drop-down {
+  width: 17px; }
+
+QDoubleSpinBox#figureXDoubleSpinBox::down-button {
+  border-top-width: 0px;
+  width: 17px; }
+
+QDoubleSpinBox#figureXDoubleSpinBox::up-button {
+  border-bottom-width: 0px;
+  width: 17px; }
+
+QDoubleSpinBox#figureXDoubleSpinBox::down-button:hover {
+  border-top-width: 0px; }
+
+QDoubleSpinBox#figureXDoubleSpinBox::up-button:hover {
+  border-bottom-width: 0px; }
+
+QDoubleSpinBox#figureYDoubleSpinBox::down-button {
+  border-top-width: 0px;
+  width: 17px; }
+
+QDoubleSpinBox#figureYDoubleSpinBox::up-button {
+  border-bottom-width: 0px;
+  width: 17px; }
+
+QDoubleSpinBox#figureYDoubleSpinBox::down-button:hover {
+  border-top-width: 0px; }
+
+QDoubleSpinBox#figureYDoubleSpinBox::up-button:hover {
+  border-bottom-width: 0px; }
+
+QDoubleSpinBox#xMaxDoubleSpinBox::down-button {
+  border-top-width: 0px;
+  width: 17px; }
+
+QDoubleSpinBox#xMaxDoubleSpinBox::up-button {
+  border-bottom-width: 0px;
+  width: 17px; }
+
+QDoubleSpinBox#xMaxDoubleSpinBox::down-button:hover {
+  border-top-width: 0px; }
+
+QDoubleSpinBox#xMaxDoubleSpinBox::up-button:hover {
+  border-bottom-width: 0px; }
+
+QDoubleSpinBox#xMinDoubleSpinBox::down-button {
+  border-top-width: 0px;
+  width: 17px; }
+
+QDoubleSpinBox#xMinDoubleSpinBox::up-button {
+  border-bottom-width: 0px;
+  width: 17px; }
+
+QDoubleSpinBox#xMinDoubleSpinBox::down-button:hover {
+  border-top-width: 0px; }
+
+QDoubleSpinBox#xMinDoubleSpinBox::up-button:hover {
+  border-bottom-width: 0px; }
+
+QDoubleSpinBox#yMaxDoubleSpinBox::down-button {
+  border-top-width: 0px;
+  width: 17px; }
+
+QDoubleSpinBox#yMaxDoubleSpinBox::up-button {
+  border-bottom-width: 0px;
+  width: 17px; }
+
+QDoubleSpinBox#yMaxDoubleSpinBox::down-button:hover {
+  border-top-width: 0px; }
+
+QDoubleSpinBox#yMaxDoubleSpinBox::up-button:hover {
+  border-bottom-width: 0px; }
+
+QDoubleSpinBox#yMinDoubleSpinBox::down-button {
+  border-top-width: 0px;
+  width: 17px; }
+
+QDoubleSpinBox#yMinDoubleSpinBox::up-button {
+  border-bottom-width: 0px;
+  width: 17px; }
+
+QDoubleSpinBox#yMinDoubleSpinBox::down-button:hover {
+  border-top-width: 0px; }
+
+QDoubleSpinBox#yMinDoubleSpinBox::up-button:hover {
+  border-bottom-width: 0px; }
+
+#axesLine {
+  background-color: #172051; }
+
+#backgroundLine {
+  background-color: #172051; }
+
+#linesConfigurationLine {
+  background-color: #172051; }
+
+#dimensionsLine {
+  background-color: #172051; }
+
+#titleLine {
+  background-color: #172051; }
+
+QMainWindow#MainWindow {
+  background-color: #0f1016; }
+
+QMenuBar#menubar {
+  background-color: #0f1016;
+  padding-top: 5px;
+  padding-bottom: 5px; }
+
+QMenuBar#menubar::item {
+  padding-left: 10px;
+  padding-right: 10px; }
+
+QMenuBar#menubar::item:selected {
+  background: #344291; }
+
+QMenuBar#menubar::item:pressed {
+  background: #4e63e3; }
+
+QSpinBox#dpiSpinBox::down-button {
+  border-top-width: 0px;
+  width: 17px; }
+
+QSpinBox#dpiSpinBox::up-button {
+  border-bottom-width: 0px;
+  width: 17px; }
+
+QSpinBox#dpiSpinBox::down-button:hover {
+  border-top-width: 0px; }
+
+QSpinBox#dpiSpinBox::up-button:hover {
+  border-bottom-width: 0px; }
+
+QTableView#linesConfigurationTableView {
+  background-color: #0f1016;
+  padding-top: 5px;
+  padding-bottom: 5px; }
+
+QTableView#linesConfigurationTableView::item:hover {
+  background: #344291; }
+
+QTableView#linesConfigurationTableView::item:selected {
+  background: #4e63e3; }
+
+QTableView#linesConfigurationTableView::item:selected:hover {
+  background: #4e63e3; }
+
+QTableView#linesConfigurationTableView QTableCornerButton::section {
+  background-color: #0f1016; }
+
+QTableView#linesConfigurationTableView QHeaderView {
+  background-color: #0f1016; }
+
+QTableView#linesConfigurationTableView QHeaderView::section {
+  background-color: #0f1016; }
